@@ -13,6 +13,8 @@
 
 - 📫 How to reach me [ademait.es](ademait.es)
 
+- 😄 Pronouns: he / him
+
 - ⚡ Fun fact **I hate phone/laptop screens🤣**
 
 
@@ -34,4 +36,4 @@
 
 ### Credits
 
-This profile has been generated with [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
+This profile has been partially generated with [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
