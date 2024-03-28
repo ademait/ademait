@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working at [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/)
+- 🔭 I’m currently working at [University of Luxembourg](https://www.uni.lu/fr/)
 
 - 🌱 I’m currently learning **how to deploy autonomous bots in open source**
 
-- 🧪 I'm part of the [SOM Research team](https://som-research.uoc.edu/) at the [IN3](https://www.uoc.edu/portal/en/in3/index.html)
+- 🧪 I'm part of the [SnT](https://www.uni.lu/snt-en/)
 
 - 💬 Ask me about `Data Analysis`, `Open Source Analysis` and `Mining Software Repositories`
 
