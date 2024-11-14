@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adem Ait</h1>
-<h3 align="center">a research assistant on software engineering and community analysis</h3>
+<h3 align="center">a PhD student in software engineering</h3>
 
 
 
 - 🔭 I’m currently working at [University of Luxembourg](https://www.uni.lu/fr/)
 
-- 🌱 I’m currently learning **how to deploy autonomous bots in open source**
+- 🌱 I’m currently learning **how to develop a low-code framework to deploy LLM-based agents**
 
 - 🧪 I'm part of the [SnT](https://www.uni.lu/snt-en/)
 
-- 💬 Ask me about `Data Analysis`, `Open Source Analysis` and `Mining Software Repositories`
+- 💬 Ask me about `LLM agents`, `Domain-Specific Languages`, `Data Analysis`, `Open Source Analysis` and `Mining Software Repositories`
 
 - 📫 How to reach me [ademait.es](ademait.es)
 
