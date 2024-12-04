@@ -11,7 +11,7 @@
 
 - 💬 Ask me about `LLM agents`, `Domain-Specific Languages`, `Data Analysis`, `Open Source Analysis` and `Mining Software Repositories`
 
-- 📫 How to reach me [ademait.es](ademait.es)
+- 📫 How to reach me [ademait.es](https://ademait.es)
 
 - 😄 Pronouns: he / him
 
