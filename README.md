@@ -26,11 +26,6 @@
 </p>
 
 
-<p float="left">
-<img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ademait&show_icons=true&locale=en&layout=compact" alt="ademait" />&nbsp;<img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=ademait&show_icons=true&locale=en" alt="ademait" />
-</p>
-
-
 ### Credits
 
 This profile has been partially generated with [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
